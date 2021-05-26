@@ -90,3 +90,5 @@ This plugin was developed by Catalyst IT Australia:
 https://www.catalyst-au.net/
 
 <img alt="Catalyst IT" src="https://cdn.rawgit.com/catalyst/moodle-auth_saml2/master/pix/catalyst-logo.svg" width="400">
+
+This plugin has been modified specifically for Unitec Institute of technology by TRL Education Limited.
